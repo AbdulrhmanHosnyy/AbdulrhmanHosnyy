@@ -1,7 +1,10 @@
-### Hi there 👋, Abdulrhman Hosny
+### Hi there 👋, I am Abdulrhman Hosny
 I am Abdulrahman from Egypt, and I am currently studying computer science at ain shams university. I enjoy learning new skills especially when it's related to programming.
 
-Skills: Database/c++/java
+## Skills and Experience
+* Database
+* c++ and java basics
+* OOP and Data structure 
 
 
 

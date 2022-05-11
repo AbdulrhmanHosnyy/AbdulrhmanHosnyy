@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Abdulrahman from Egypt, and I am currently studying computer science at ain shams university. I enjoy learning new skills especially when it's related to programming.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulrhman Hosny)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **AbdulrhmanHosnyy/AbdulrhmanHosnyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

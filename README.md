@@ -5,6 +5,7 @@ I am Abdulrahman from Egypt, and I am currently studying computer science at ain
 * Database
 * c++ and java basics
 * OOP and Data structure 
+* Problem Solving
 
 Check out my codeforces profile here: https://codeforces.com/profile/AbdulrhmanHosny
 

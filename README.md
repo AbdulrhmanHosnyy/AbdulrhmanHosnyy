@@ -3,11 +3,13 @@ I am Abdulrahman from Egypt, and I am currently studying computer science at ain
 
 ## Skills and Experience
 * Database
-* c++ and java basics
 * OOP and Data structure 
 * Problem Solving
+* Operating System, Networks, and compiler
+* System and analysis and design
 
-Check out my codeforces profile here: https://codeforces.com/profile/AbdulrhmanHosny
+Check out my CodeForces profile here: https://codeforces.com/profile/AbdulrhmanHosny
+Check out my LeetCode profile here: https://leetcode.com/abdulrhmanhosnymuhammed/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbdulrhmanHosnyy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdulrhman-hosny-muhammed-b4410b219//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCyVbSLKmAZsIeJCC3e-oyrw)  

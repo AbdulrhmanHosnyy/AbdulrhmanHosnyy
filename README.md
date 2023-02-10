@@ -9,5 +9,4 @@ Check out my LinkedIn profile here: https://www.linkedin.com/in/abdulrhmnhosnymu
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrhmanHosnyy)](https://github.com/anuraghazra/github-readme-stats)
 

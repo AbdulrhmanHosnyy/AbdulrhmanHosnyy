@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Abdulrhman Hosny
-I am Abdulrahman from Egypt, and I am currently studying computer science at ain shams university. I enjoy learning new skills especially when it's related to programming.
+I am Abdulrahman from Egypt, and I am currently studying computer science at Ain-shams university. I enjoy learning new skills especially when it's related to programming.
 
 
 
